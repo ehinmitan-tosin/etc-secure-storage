@@ -1,0 +1,1 @@
+This is my first test document uploaded to Amazon S3 using AWS CLI and Terraform.

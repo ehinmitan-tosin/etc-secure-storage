@@ -1,0 +1,13 @@
+﻿{
+    "Objects":  [
+                    {
+                        "Key":  "sample-document.txt",
+                        "VersionId":  "9K0SS7IT4Y3xF455IkzwSjESEG2NaEM0"
+                    },
+                    {
+                        "Key":  "sample-document.txt",
+                        "VersionId":  "GIR.8G1nu0DlJnFKsu5.Pq3EtWmUZaKl"
+                    }
+                ],
+    "Quiet":  true
+}
